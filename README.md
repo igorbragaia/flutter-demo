@@ -1,4 +1,4 @@
-# Pokedex Flutter Demo project for college fresh students.
+# Pokedex Flutter Demo project for college fresh students
 
 [Class - Youtube Video (Portuguese)](https://www.youtube.com/watch?v=djNGwLo1gOE)
 
